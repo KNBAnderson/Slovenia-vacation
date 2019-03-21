@@ -22,19 +22,31 @@ h4 {
   text-align: center;
   border: 20px #058B72 solid;
   font-family: 'Germania One', cursive;
-  font-size: 100px;
+
 }
 
 body {
   font-family: "Open Sans";
-  background-color: #639ED9;
+  background-image: linear-gradient(#595957, #B8B6B4, #595957);
+
 }
 
 blockquote {
-  background-color: #A78002;
+  background-color: pink;
 }
 
 .col-lg-3 {
   background-color: white;
+
   border: 2px #574B03 solid;
+}
+
+span {
+  color: pink;
+}
+
+.jumbotron h1, .jumbotron p {
+  background: rgba(5, 139, 114, 0.5);
+  width: 50%;
+  border: 1px black solid;
 }
