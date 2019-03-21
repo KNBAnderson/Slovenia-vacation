@@ -1,0 +1,40 @@
+img {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url("https://www.telegraph.co.uk/content/dam/Travel/Tours/lake%20bled.jpg?imwidth=1400");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  text-align: center;
+  border: 20px #058B72 solid;
+  font-family: 'Germania One', cursive;
+  font-size: 100px;
+}
+
+body {
+  font-family: "Open Sans";
+  background-color: #639ED9;
+}
+
+blockquote {
+  background-color: #A78002;
+}
+
+.col-lg-3 {
+  background-color: white;
+  border: 2px #574B03 solid;
+}
